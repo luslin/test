@@ -1,4 +1,2 @@
 Git is a distributed 
-asdfsdf
-asdfasdf
-===========================================
+FEATURE1 TEXT
