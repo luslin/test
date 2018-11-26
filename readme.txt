@@ -1,12 +1,6 @@
 Git is a distributed 
-asdfsdf
-asdfasdf
+head txt
 
-ads
-f
-sad
-f
-s
-df
-a
-------------
+
+
+
