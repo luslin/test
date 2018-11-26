@@ -1,6 +1,3 @@
 Git is a distributed 
-head txt
-
-
-
+FEATURE1 TEXT
 
